@@ -135,13 +135,9 @@ header>.navbar>.logo>a{
     margin-bottom: 50px;
     color: #FF7A00;
 }
-
-
-
-
-
-
-
+main{
+    margin-left: 300px;
+}
 footer {
     display: flex;
     justify-content: space-between;

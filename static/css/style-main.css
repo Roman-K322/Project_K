@@ -162,6 +162,10 @@ footer p {
     text-decoration: none;
     margin-left: 20px;
 }
+footer a{
+    text-decoration: none;
+    color: #ff7a00;
+}
 
 .footer-icon {
     display: flex;
