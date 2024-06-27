@@ -9,8 +9,6 @@ def main():
 @app.route("/templates/<page>")
 def pages(page):
     return render_template(f"{page}.html")
-
-
 @app.route("/reader/<book>")
 def reader(book):
     return render_template(f"{book}.html")
